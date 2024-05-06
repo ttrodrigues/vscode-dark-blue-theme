@@ -5,7 +5,7 @@
   "license": "Open source",
   "description": "VS Code Dark Blue theme",
   "version": "0.0.1",
-  "icon": "/media/icon.jpg",
+  "icon": "/media/icon.png",
   "engines": {
     "vscode": "^1.88.0"
   },
