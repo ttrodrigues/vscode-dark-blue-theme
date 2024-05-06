@@ -1,6 +1,6 @@
 ![](/media/icon.png)
 
-# Dark Blue Theme
+# 🔵 Dark Blue Theme
 
 ![](/media/screenshot_001.png)
 ![](/media/screenshot_002.png)
