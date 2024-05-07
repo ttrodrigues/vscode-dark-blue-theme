@@ -4,7 +4,7 @@
   "publisher": "ttrodrigues",
   "license": "Open source",
   "description": "VS Code Dark Blue theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "/media/icon.png",
   "engines": {
     "vscode": "^1.88.0"
