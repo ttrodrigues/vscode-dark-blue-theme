@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.0.6]
+- Change merge editor colors
+
 ## [0.0.5]
 - Minor fixes
 
