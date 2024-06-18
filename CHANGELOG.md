@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.0.7]
+- Minor fix on syntax color of constant 
+
 ## [0.0.6]
 - Change merge editor colors
 

@@ -42,7 +42,7 @@
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#D19A66"
+				"foreground": "#E5C07B"
 			}
 		},
 		{
@@ -339,7 +339,7 @@
 				"variable.other.constant.tsx"
 			],
 			"settings": {
-				"foreground": "#E06C75"
+				"foreground": "#E5C07B"
 			}
 		},
 		{
