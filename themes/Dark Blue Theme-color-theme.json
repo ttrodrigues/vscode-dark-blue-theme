@@ -3,6 +3,15 @@
 	"tokenColors": [
 		{
 			"scope": [
+				"variable.other.property.ts", 
+				"variable.other.property.js"
+			],
+			"settings": {
+				"foreground": "#dda083"
+			}
+		},
+		{
+			"scope": [
 				"comment",
 				"punctuation.definition.comment",
 				"string.quoted.docstring.multi",

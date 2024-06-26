@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.0.8]
+- Minor fix on syntax color of variable property in JS/TS
+
 ## [0.0.7]
 - Minor fix on syntax color of constant 
 
