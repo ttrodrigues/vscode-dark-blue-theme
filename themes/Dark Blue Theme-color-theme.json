@@ -640,7 +640,7 @@
 		"list.highlightForeground": "#4d78cc",
 		"list.focusBackground": "#4d77cc67",
 		"list.focusForeground": "#cccccc",
-		"listFilterWidget.background": "#4d77cc67",
+		"listFilterWidget.background": "#191c20",
 		"listFilterWidget.outline": "#4d77cc67",
 		"listFilterWidget.noMatchesOutline": "#4d77cc67",
 		"statusBar.foreground": "#ffffff60",

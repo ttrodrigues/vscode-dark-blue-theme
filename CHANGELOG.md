@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.0.9]
+- Minor fix on search pop up of explorer
+
 ## [0.0.8]
 - Minor fix on syntax color of variable property in JS/TS
 
