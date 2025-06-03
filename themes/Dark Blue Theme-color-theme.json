@@ -607,6 +607,8 @@
 		"debugTokenExpression.error": "#961f1f",
 		"foreground": "#cccccc",
 		"focusBorder": "#00000000",
+		"git.blame.editorDecorationForeground": "#5C6370",
+        "gitlens.trailingLineForegroundColor": "#5C6370",
 		"settings.modifiedItemIndicator": "#4d78cc",
 		"settings.headerForeground": "#4d78cc",
 		"settings.focusedRowBorder": "#4d78cc",
