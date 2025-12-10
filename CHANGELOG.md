@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.0.11]
+- Minor fix on blame information
+
 ## [0.0.10]
 - Minor fix on blame information
 
